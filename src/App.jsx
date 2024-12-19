@@ -1,9 +1,9 @@
-import WidthHeight from "./components/WidthHeight";
+import Stopwatch from "./components/Stopwatch";
 
 function App() {
   return (
     <>
-      <WidthHeight />
+      <Stopwatch />
     </>
   );
 }
