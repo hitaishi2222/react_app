@@ -1,9 +1,9 @@
-import OnChangeT from "./components/OnChangeT";
+import WidthHeight from "./components/WidthHeight";
 
 function App() {
   return (
     <>
-      <OnChangeT />
+      <WidthHeight />
     </>
   );
 }
